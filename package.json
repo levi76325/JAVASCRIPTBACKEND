@@ -1,5 +1,16 @@
 {
   "dependencies": {
+    "json-server": "^1.0.0-alpha.23",
     "prompt-sync": "^4.2.0"
-  }
+  },
+  "type": "module",
+  "name": "bolsafamilia",
+  "version": "1.0.0",
+  "main": "array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "levi",
+  "license": "ISC",
+  "description": ""
 }
