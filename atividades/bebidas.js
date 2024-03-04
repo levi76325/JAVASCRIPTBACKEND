@@ -93,3 +93,7 @@ saborLaranja.quantidade = 200
 saborLaranja.lote = 3
 saborLaranja.vendaDoLote(1)
 console.log(saborLaranja)
+
+
+let dataAtual = new Date()
+console.log(dataAtual)
